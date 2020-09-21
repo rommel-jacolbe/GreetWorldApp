@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">GreeterApp</string>
+    <string name="button_text_ok">OK</string>
+    <string name="greeting_chooser_title">How Should I Greet You?</string>
+    <string name="greeting_chooser_hello">Hello</string>
+    <string name="greeting_chooser_hi">Hi</string>
+    <string name="greeting_chooser_howdy">Howdy</string>
+    <string name="greeting_chooser_wassup">Wassup</string>
+    <string name="greeting_default_name">Rommel</string>
+</resources>
