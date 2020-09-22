@@ -1,10 +1,14 @@
 <resources>
     <string name="app_name">GreeterApp</string>
-    <string name="button_text_ok">OK</string>
+    <string name="button_text_back_to_main">Back to Main</string>
+    <string name="button_text_change_greeting">Change Greeting</string>
     <string name="greeting_chooser_title">How Should I Greet You?</string>
     <string name="greeting_chooser_hello">Hello</string>
     <string name="greeting_chooser_hi">Hi</string>
     <string name="greeting_chooser_howdy">Howdy</string>
     <string name="greeting_chooser_wassup">Wassup</string>
     <string name="greeting_default_name">Rommel</string>
+    <string name="main_Enter_name">Enter Your Name</string>
+    <string name="main_button_text">Greet Me!</string>
+    <string name="main_edit_text_hint">What\'s your name?</string>
 </resources>
